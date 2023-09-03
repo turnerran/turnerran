@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hi, I'm Ran
 
-<!--
-**turnerran/turnerran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Full Stack Engineer | Frontend | Backend | Cloud Technologies
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an experienced Full Stack Engineer with a passion for creating robust, scalable, and innovative software solutions. My expertise spans a wide range of technologies, including:
+
+### Frontend Technologies
+- JavaScript
+- TypeScript
+- React
+- Angular
+- Ember.js
+- HTML
+- CSS
+- Tailwind CSS
+- and more...
+
+### Backend Technologies
+- C#
+- ASP.NET
+- .NET Core
+- Node.js
+- Express
+- NestJS
+- Web API
+- Microservices
+- Serverless based architectures
+- Jest (for testing)
+
+### Database Technologies
+- MSSQL
+- MySQL
+- PostgreSQL
+- MongoDB
+- Couchbase
+- Redis
+- and more...
+
+## Connect with Me
+
+- [Stack Overflow](https://stackoverflow.com/users/7494218/ran-turner)
+- [Medium](https://medium.com/@turnerran87)
+
+Feel free to reach out and connect with me on these platforms
