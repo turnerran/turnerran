@@ -1,8 +1,8 @@
-# Hi, I'm Ran
+# Hi, I'm Ran 👋
 
 Experienced Full Stack Engineer | Frontend | Backend | Cloud Technologies
 
-## About Me
+## About Me⚡
 
 I'm an experienced Full Stack Engineer with a passion for creating robust, scalable, and innovative software solutions. My expertise spans a wide range of technologies, including:
 
@@ -43,4 +43,4 @@ I'm an experienced Full Stack Engineer with a passion for creating robust, scala
 - [Stack Overflow](https://stackoverflow.com/users/7494218/ran-turner)
 - [Medium](https://medium.com/@turnerran87)
 
-Feel free to reach out and connect with me on these platforms
+Feel free to reach out and connect with me on these platforms 👯
