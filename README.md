@@ -1,4 +1,4 @@
-# Hi, I'm Ran 👋
+# Hi, I'm Ran👋
 
 Experienced Full Stack Engineer | Frontend | Backend | Cloud Technologies
 
