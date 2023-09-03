@@ -2,11 +2,11 @@
 
 Experienced Full Stack Engineer | Frontend | Backend | Cloud Technologies
 
-## About Me⚡
+## About Me
 
 I'm an experienced Full Stack Engineer with a passion for creating robust, scalable, and innovative software solutions. My expertise spans a wide range of technologies, including:
 
-### Frontend Technologies
+### Frontend Technologies⚡
 - JavaScript
 - TypeScript
 - React
@@ -17,7 +17,7 @@ I'm an experienced Full Stack Engineer with a passion for creating robust, scala
 - Tailwind CSS
 - and more...
 
-### Backend Technologies
+### Backend Technologies⚡
 - C#
 - ASP.NET
 - .NET Core
@@ -29,7 +29,7 @@ I'm an experienced Full Stack Engineer with a passion for creating robust, scala
 - Serverless based architectures
 - Jest (for testing)
 
-### Database Technologies
+### Database Technologies⚡
 - MSSQL
 - MySQL
 - PostgreSQL
