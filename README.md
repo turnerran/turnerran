@@ -42,5 +42,6 @@ I'm an experienced Full Stack Engineer with a passion for creating robust, scala
 
 - [Stack Overflow](https://stackoverflow.com/users/7494218/ran-turner)
 - [Medium](https://medium.com/@turnerran87)
+- [linkedin](https://www.linkedin.com/in/ran-turner-159522102/)
 
 Feel free to reach out and connect with me on these platforms 👯
