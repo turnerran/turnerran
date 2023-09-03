@@ -27,8 +27,7 @@ I'm an experienced Full Stack Engineer with a passion for creating robust, scala
 - Web API
 - Microservices
 - Serverless based architectures
-- Jest (for testing)
-
+- Jest
 ### Database Technologies⚡
 - MSSQL
 - MySQL
