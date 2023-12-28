@@ -33,6 +33,7 @@ I'm an experienced Full Stack Engineer with a passion for creating robust, scala
 - MySQL
 - PostgreSQL
 - MongoDB
+- DynamoDB
 - Couchbase
 - Redis
 - and more...
